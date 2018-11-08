@@ -1,4 +1,5 @@
 from fastai.text import *
+from fastai.imports import *
 import fire
 
 BOS = 'xbos'  # beginning-of-sentence tag
